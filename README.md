@@ -24,7 +24,7 @@ We use your information for the following purposes:
 
 * **To communicate with you:** We may use your email address to send you game-related updates, promotional offers, and customer support.
 
-* **To comply with legal requirements: We may disclose your information if required by law or to protect the rights or safety of ourselves or others.
+* **To comply with legal requirements:** We may disclose your information if required by law or to protect the rights or safety of ourselves or others.
 
 ## Third-Party Services
 We use third-party services to provide certain features and functionalities within the game. These services may collect or receive your information, and they have their own privacy policies:
