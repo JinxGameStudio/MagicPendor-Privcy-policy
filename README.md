@@ -1,0 +1,1 @@
+# MagicPendor-Privcy-policy
